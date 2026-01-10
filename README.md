@@ -2,24 +2,6 @@
   <h1 align="center">Hi there 👋, I'm Vishva Pambhar!</h1>
   <h3>Developer & Student based in India</h3>
 
-  <p align="center">
-    <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=vishva-19&icon=5&color=6" alt="Visit Counter" />
-    </a>
-  </p>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/vishva-pambhar-25b553376" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:YourEmail@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </p>
-</div>
-
----
-
 ## 💫 About Me:
 
 I am a First-Year **Computer Engineering Student** passionate about technology. I love challenging myself through **Hackathons** and building new projects to expand my technical skills. I am currently looking for opportunities to learn and grow.
@@ -27,7 +9,6 @@ I am a First-Year **Computer Engineering Student** passionate about technology. 
 - 🔭 I’m currently working on: Developing a **2D game in Unity** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="20" width="20" />
 - 🌱 I’m currently learning: **Python & Unity** to build games for an upcoming **Game Jam**.
 
----
 
 ## 💻 Tech Stack:
 
@@ -48,16 +29,14 @@ I am a First-Year **Computer Engineering Student** passionate about technology. 
 
 </div>
 
----
 
 ## 🚀 Major Projects:
 
 
 🤖[Luminara](https://github.com/vishva-19/https://github.com/shlok377/luminara.git): An AI-powered study companion.
 
-☁️ [AuraCast](https://github.com/vishva-19/https://github.com/vishva-19/AuraCast.git): NASA-powered air quality monitoring and prediction.
+☁️[AuraCast](https://github.com/vishva-19/https://github.com/vishva-19/AuraCast.git): NASA-powered air quality monitoring and prediction.
 
----
 
 ## 📊 GitHub Stats:
 
