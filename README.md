@@ -1,11 +1,11 @@
 # Hi there 👋, I'm Vishva Pambhar!
 
 # 💫 About Me:
-### <br>I am a First-Year **Computer Engineering Student** passionate about technology. I love challenging myself through **Hackathons** and building new projects to expand my technical skills. <br>I am currently looking for opportunities to learn and grow.<br><br>- 🔭 **I’m currently working on:** Building projects to gain hands-on exposure and learn new technologies.<br>- 🌱 **I’m currently learning:** Python & **Unity** to build games for an upcoming **Game Jam**.<br><br><br><br>
+<br>I am a First-Year **Computer Engineering Student** passionate about technology. I love challenging myself through **Hackathons** and building new projects to expand my technical skills. <br>I am currently looking for opportunities to learn and grow.<br><br>- 🔭 **I’m currently working on:** Building projects to gain hands-on exposure and learn new technologies.<br>- 🌱 **I’m currently learning:** Python & **Unity** to build games for an upcoming **Game Jam**.<br><br><br><br>
 
 # 🚀Major Projects:
-### - ⚙️ **Luminara:** An AI-powered study companion
-### - ☁️ **AuraCast:** NASA-powered air quality forecasts for North America.
+- ⚙️ **Luminara:** An AI-powered study companion
+- ☁️ **AuraCast:** NASA-powered air quality forecasts for North America.
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vishva-pambhar-25b553376) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishvapambhar19@gmail.com) 
