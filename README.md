@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Vishva Pambhar!
 
-# 💫 About Me:<br><br>I am a First-Year **Computer Engineering Student** passionate about technology. I love challenging myself through **Hackathons** and building new projects to expand my technical skills. <br>I am currently looking for opportunities to learn and grow.<br><br>- 🔭 **I’m currently working on:** Building projects to gain hands-on exposure and learn new technologies.<br>- 🌱 **I’m currently learning:** Python & **Unity** to build games for an upcoming **Game Jam**.<br><br><br><br>
+# 💫 About Me:
+<br>I am a First-Year **Computer Engineering Student** passionate about technology. I love challenging myself through **Hackathons** and building new projects to expand my technical skills. <br>I am currently looking for opportunities to learn and grow.<br><br>- 🔭 **I’m currently working on:** Building projects to gain hands-on exposure and learn new technologies.<br>- 🌱 **I’m currently learning:** Python & **Unity** to build games for an upcoming **Game Jam**.<br><br><br><br>
 
 # 🚀Major Projects:
 - ⚙️ **Luminara:** An AI-powered study companion
