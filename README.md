@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Vishva Pambhar!</h1>
 
 # 💫 About Me:
-I am a First-Year **Computer Engineering Student** passionate about technology. I love challenging myself through **Hackathons** and building new projects to expand my technical skills. I am curren[...]
+I am a First-Year **Computer Engineering Student** passionate about technology. I love challenging myself through **Hackathons** and building new projects to expand my technical skills. I am currently looking for opportunities to learn and grow.
 - 🔭 **I’m currently working on:** Building projects to gain hands-on exposure and learn new technologies.<br>
 - 🌱 **I’m currently learning:** Python & **Unity** to build games for an upcoming **Game Jam**.
 
