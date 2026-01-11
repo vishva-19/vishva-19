@@ -11,7 +11,7 @@ I am a First-Year **Computer Engineering Student** passionate about technology. 
 # 🚀 Major Projects:
 
 🤖 [Luminara](https://github.com/vishva-19/https://github.com/shlok377/luminara.git): An AI-powered study companion.<br>
-☁️ [AuraCast](https://github.com/vishva-19/https://github.com/vishva-19/AuraCast.git): NASA-powered air quality monitoring and prediction.
+☁️ [AuraCast](https://github.com/vishva-19/AuraCast.git): NASA-powered air quality monitoring and prediction.
 
 # 💻 Tech Stack:
 
