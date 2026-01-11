@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-I am a First-Year **Computer Engineering Student** passionate about technology. I love challenging myself through **Hackathons** and building new projects to expand my technical skills. I am currently focusing on game development and AI projects.
+I am a First-Year **Computer Engineering Student** passionate about technology. I love challenging myself through **Hackathons** and building new projects to expand my technical skills. I am currently looking for opportunities to learn and grow.
 
 🔭 I’m currently working on: Developing a **2D game in Unity** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="20" width="20"/><br>
 🌱 I’m currently learning: **Python & Unity** to build games for an upcoming **Game Jam**.
