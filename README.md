@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Vishva Pambhar!</h1>
+<h1 align="center">Hi there 👋, I'm Vishva!</h1>
 <div align="center"><h3>Developer & Student based in India</h3></div>
 
 # 💫 About Me:
